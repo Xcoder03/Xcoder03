@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Software Engineer
 -------------------
 
-I am competent and hardworking software engineer with 2 years of experience in Html, CSS, JavaScript, SQL and Java
+I am a competent and hardworking software engineer with 2 years of experience in Html, CSS, JavaScript, SQL and Java
 
 *   🌍  I'm based in Port Harcourt, Nigeria
 *   ✉️  You can contact me at [chindaebube03@gmail.com](mailto:chindaebube03@gmail.com)
