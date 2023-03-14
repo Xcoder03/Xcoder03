@@ -8,8 +8,8 @@ I am a competent and hardworking software engineer who is eager to work and lear
 
 * 🌍  I'm based in Port Harcourt, Nigeria
 * ✉️  You can contact me at [chindaebube03@gmail.com](mailto:chindaebube03@gmail.com)
-* 🧠  I'm learning Spring and react.
-* 🤝  I'm open to collaborating on Porjects
+* 🧠  I'm learning Express.js and Typscript.
+* 🤝  I'm open to collaborating on Projects
 * ⚡  I love FIFA.
 
 <a href="https://www.twitter.com/Xcoder03" target="_blank" rel="noreferrer"><img
