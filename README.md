@@ -10,7 +10,8 @@ I am a passionate software engineer who's focused on building products that have
 *   ✉️  You can contact me at [chindaebube03@gmail.com](mailto:chindaebube03@gmail.com)
 *   🧠  I'm learning Typescript and API Documentation
 *   🤝  I'm open to collaborating on I an open to new ideas and building products focused on the African market
-*   ⚡  Well I love to play games<a href="https://www.github.com/Xcoder03" target="_blank" rel="noreferrer"><img
+*   ⚡  Well I love to play games
+  <a href="https://www.github.com/Xcoder03" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Xcoder03?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Xcoder03" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Xcoder03?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
