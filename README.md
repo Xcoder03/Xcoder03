@@ -1,6 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ebube Chinda ====================================================================================================================================  Software Engineer -----------------  I am a passionate software engineer who's focused on building products that have an impact on the world. I love to research and read about new technologies, startups and venture capitalist to expand my knowledge.  * 🌍  I'm based in Nigeria * ✉️  You can contact me at [chindaebube03@gmail.com](mailto:chindaebube03@gmail.com) * 🧠  I'm learning Typescript and API Documentation * 🤝  I'm open to collaborating on I an open to new ideas and building products focused on the African market * ⚡  Well I love to play games
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ebube Chinda ====================================================================================================================================
 
+ Software Engineer ----------------- 
 
+ I am a passionate software engineer who's focused on building products that have an impact on the world. I love to research and read about new technologies, startups and venture capitalist to expand my knowledge.
+
+  * 🌍  I'm based in Nigeria 
+  * ✉️  You can contact me at [chindaebube03@gmail.com](mailto:chindaebube03@gmail.com) 
+  * 🧠  I'm learning Typescript and API Documentation 
+  * 🤝  I'm open to collaborating on I an open to new ideas and building products focused on the African market 
+  *  ⚡  Well I love to play games
 
 <a href="https://www.github.com/Xcoder03" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Xcoder03?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Xcoder03" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Xcoder03?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
